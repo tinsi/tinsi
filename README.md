@@ -8,6 +8,7 @@ Since then, I’ve continued upgrading my skills with a lot of different things,
 
 
 💼 Experience
+
 Accenture Nordics - Software Engineer  (9/2022 - 4/2023)
 - Planning and executing a internal project 
 
@@ -17,7 +18,8 @@ LinkedIn: https://www.linkedin.com/in/tiina-vaisanen/
 
 🌟 Fun Fact
 
-I love cats and I own two of them! Very cute and very fluffy! 😻😻 I also have a summer garden place where I like to get my hands dirty 🌱
+I love cats and I own two of them! Very cute and very fluffy! 😻😻 
+I also have a summer garden place where I like to get my hands dirty 🌱
 
 
 
