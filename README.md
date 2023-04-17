@@ -12,10 +12,12 @@ Accenture Nordics - Software Engineer  (9/2022 - 4/2023)
 - Planning and executing a internal project 
 
 📫 Contact Me
+
 LinkedIn: https://www.linkedin.com/in/tiina-vaisanen/
 
 🌟 Fun Fact
-I love cats and I own two of them! Very cute and very fluffy! 
+
+I love cats and I own two of them! Very cute and very fluffy! 😻😻 I also have a summer garden place where I like to get my hands dirty 🌱
 
 
 
