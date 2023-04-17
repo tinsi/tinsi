@@ -2,8 +2,9 @@
 
 I'm Tiina, a IT consultant based in Helsinki, Finland. I'm passionate about cloud development and cyber security and always looking for new ways to challenge myself and grow professionally.
 
-I’m a career changer and I participated in Academic Work Academy training camp in summer of 2022 (3 months). During the summer, we learned the essentials of AWS cloud and during fall 2022,, I became a certified AWS Developer Associate 🔥
-Since then, I’ve continued upgrading my skills with a lot of different things, for example some fullstack development, Terraform with Udemy course and some hacking with hackthebox.com. 
+I’m a career changer and I participated in Academic Work Academy training camp in summer of 2022 (3 months). During the summer, we learned the essentials of AWS cloud and during fall 2022, I became a certified AWS Developer Associate 🔥
+
+Since then, I’ve continued upgrading my skills with a lot of different things, for example some fullstack development, Terraform and some hacking with hackthebox.com. 
 
 
 
