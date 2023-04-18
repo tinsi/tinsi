@@ -11,7 +11,7 @@ Since then, I’ve continued upgrading my skills with a lot of different things,
 ## 💼 Experience
 
 Accenture Nordics - Software Engineer  (9/2022 - 4/2023)
-- Planning and executing a internal project 
+- Planning and executing an internal project 
 
 ## 📫 Contact Me
 
