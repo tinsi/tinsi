@@ -20,7 +20,7 @@ LinkedIn: https://www.linkedin.com/in/tiina-vaisanen/
 ## 🌟 Fun Fact
 
 I love cats and I own two of them! Very cute and very fluffy! 😻😻 
-I also have a summer garden place where I like to get my hands dirty 🌱
+I also have a summer garden place where I like to get my hands dirty 🌱😄
 
 
 
