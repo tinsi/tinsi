@@ -6,9 +6,13 @@ I’m a career changer and I participated in Academic Work Academy training camp
 
 Since then, I’ve continued upgrading my skills with a lot of different things, for example some fullstack development, Terraform and some hacking with hackthebox.com. 
 
+Now in my currect position I'm learning all things related to cloud security.
+
 
 
 ## 💼 Experience
+
+Wärtsilä - Junior Cloud Security Specialist (05/2023 - )
 
 Accenture Nordics - Software Engineer  (9/2022 - 4/2023)
 - Planning and executing an internal project 
